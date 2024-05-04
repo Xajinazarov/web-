@@ -1,0 +1,7 @@
+
+.body{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('IMG_20220822_102320_251-xl.jpg');
+    background-size: cover;
+}
